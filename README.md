@@ -226,20 +226,6 @@ Download Report
 
 ---
 
-# 📸 Application Screenshots
-
-Add screenshots of:
-
-- Home Page
-- Upload Page
-- Dashboard
-- Sentiment Analysis
-- Charts
-- AI Summary
-- Download Report
-
----
-
 # 👨‍💻 Author
 
 **Ravichandhiran E**
